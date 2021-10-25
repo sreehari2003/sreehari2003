@@ -3,7 +3,7 @@
 </p>
 
 <p>
- a web developer
+	<h2> Web Developer</h2>
 </p>
 
    <a href="https://www.linkedin.com/in/sreehari-jayaraj-226b821b8/" target="_blank">
