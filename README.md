@@ -13,7 +13,7 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
   
-   <a href="https://stackoverflow.com/users/14854325/sreehari-jayaraj" target="_blank">
+   <a href="https://www.instagram.com/sreehari_jayaraj__/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
