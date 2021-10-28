@@ -12,6 +12,17 @@
    <a href="https://stackoverflow.com/users/14854325/sreehari-jayaraj" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
+  
+   <a href="https://stackoverflow.com/users/14854325/sreehari-jayaraj" target="_blank">
+    <img alt="Instagram" src="
+  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  
+  
+  
+  
+  
 
 - 👋 Hi, I’m sreehari jayaraj
 - 💼 I'm a web developer
