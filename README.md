@@ -34,7 +34,9 @@
 - 👋 Hi, I’m sreehari jayaraj
 - 💼 I'm a web developer
 - 💬 Talk to me about startups and technology
+- 👀 [portfolio webiste](https://sreeharijayaraj.vercel.app/)
 <!-- 👯 I’m looking to collaborate and learn about programming -->
+- 🧑‍ Currently i am learning Go-lang and Typescript
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -87,3 +89,4 @@
 ---
 
 Credit: [aastha12](https://github.com/aastha12)
+
