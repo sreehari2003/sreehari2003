@@ -34,9 +34,9 @@
 - 👋 Hi, I’m sreehari jayaraj
 - 💼 I'm a web developer
 - 💬 Talk to me about startups and technology
-- 🧑‍ Currently i am learning Solidity and Typescript
+- 🧑‍ Currently i am learning Flutter and Typescript
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
 
 <ul>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
