@@ -34,7 +34,7 @@
 - 👋 Hi, I’m sreehari jayaraj
 - 💼 I'm a web developer
 - 💬 Talk to me about startups and technology
-- 🧑‍ Currently i am learning React Native and Typescript
+- 🧑‍ Currently i am learning React Native and GoLang
 
 <h2> Skills </h2>
 
