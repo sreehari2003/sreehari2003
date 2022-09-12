@@ -1,5 +1,8 @@
 <h1> Hello Fellow < Developers/ > </h1>
+	
+	
 <p align='center'>
+	
 </p>
 
 <p>
@@ -22,7 +25,6 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 
-  
   
   
   
@@ -56,8 +58,9 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
-
-
+</br></br>
+<a href="https://www.buymeacoffee.com/sreehari03" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  
 </ul>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
