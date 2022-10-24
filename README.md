@@ -8,6 +8,7 @@
 <p>
 	<h2> Web Developer</h2>
 </p>
+<h3>EMAIL : sreeharijayaraj03@gmail.com</h1>
 
    <a href="https://www.linkedin.com/in/sreehari-jayaraj-226b821b8/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
