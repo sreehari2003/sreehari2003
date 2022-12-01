@@ -35,11 +35,11 @@
 ![](https://komarev.com/ghpvc/?username=sreehari2003&color=grey)
 
 - 👋 Hi, I’m sreehari jayaraj
-- 💼 I'm a web developer
+- 💼 I'm a web/Mobile developer
 - 💬 Talk to me about startups and technology
-- 🧑‍ Currently i am learning React Native and GoLang
+- 🧑‍ Currently i am learning React Native,GoLang and Docker 
 
-<h2> Skills </h2>
+<!-- <h2> Skills </h2>
 
 <ul>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -62,7 +62,7 @@
 </br>
 <a href="https://www.buymeacoffee.com/sreehari03" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
   
-</ul>
+</ul> -->
 <!-- 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
