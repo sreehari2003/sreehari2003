@@ -38,7 +38,7 @@
 - 💼 I'm a Web/Mobile developer
 - 💬 Talk to me about startups and technology
 - 🧑‍ Currently i am learning React Native,GoLang and Docker 
-- 🏢 Currently i am working at a Open-Source at @tinkerhub
+- 🏢 Currently i am working on a Open-Source at @tinkerhub
 
 <!-- <h2> Skills </h2>
 
