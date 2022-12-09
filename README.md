@@ -35,9 +35,10 @@
 ![](https://komarev.com/ghpvc/?username=sreehari2003&color=grey)
 
 - 👋 Hi, I’m sreehari jayaraj
-- 💼 I'm a web/Mobile developer
+- 💼 I'm a Web/Mobile developer
 - 💬 Talk to me about startups and technology
 - 🧑‍ Currently i am learning React Native,GoLang and Docker 
+- 🏢 Currently i am working at a Open-Source at @tinkerhub
 
 <!-- <h2> Skills </h2>
 
