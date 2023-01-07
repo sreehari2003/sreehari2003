@@ -40,6 +40,9 @@
 - 🧑‍ Currently i am learning React Native,GoLang and Docker 
 - 🏢 Currently i am working on a Open-Source Project at @tinkerhub
 
+-  TYPESCRIPT | JAVASCRIPT | REACT JS | NEXT JS | REACT-NATIVE | GOLANG | PYTHON
+
+
 <!-- <h2> Skills </h2>
 
 <ul>
