@@ -37,7 +37,7 @@
 - 👋 Hi, I’m sreehari jayaraj
 - 💼 I'm a Web/Mobile developer
 - 💬 Talk to me about startups and technology
-- 🧑‍ Currently i am learning React Native,GoLang and Docker 
+- 🧑‍ Currently i am learning GoLang,Docker and more backend concepts 
 - 🏢 Currently i am working on a Open-Source Project at @tinkerhub
 
 -  TYPESCRIPT | JAVASCRIPT | REACT JS | NEXT JS |  GOLANG | PYTHON
