@@ -41,7 +41,7 @@
 - 🏢 Currently i am working on a Open-Source Project at @tinkerhub
 
 -  TYPESCRIPT | JAVASCRIPT | REACT JS | NEXT JS |  GOLANG | PYTHON
--  ![gitlab: sreehari03](https://gitlab.com/sreehari03)
+-  <a href="https://gitlab.com/sreehari03" target="_blank">Gitlab: sreehari03</a>
 
 
 <!-- <h2> Skills </h2>
