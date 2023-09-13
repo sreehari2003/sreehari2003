@@ -40,7 +40,7 @@
 - 🧑‍ Currently i am learning GoLang,Docker and more backend concepts 
 - 🏢 Currently i am working on a Open-Source Project at @tinkerhub
 
--  TYPESCRIPT | JAVASCRIPT | REACT JS | NEXT JS |  GOLANG | PYTHON
+-  TYPESCRIPT | JAVASCRIPT | REACT JS | NEXT JS | VUE JS | NUXTS JS|  GOLANG | PYTHON
 -  <a href="https://gitlab.com/sreehari03" target="_blank">Gitlab: sreehari03</a>
 
 
